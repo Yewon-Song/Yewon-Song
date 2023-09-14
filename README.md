@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yewon-Song
-- 👀 I’m interested in NetworkSecurity
+- 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning Signals and System
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me niagarapokpo@naver.com
