@@ -4,13 +4,20 @@
 👀 I’m interested in Computer Vision for Autonomous Vehicles
 🌱 I’m currently learning Signals and System
 💞️ I’m looking to collaborate on ...
+📫 How to reach me niagarapokpo@naver.com
 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://niagarapokpo.tistory.com/)
 
 ### 💼 Career
-- 📫 How to reach me niagarapokpo@naver.com
-  
+
+
 ### 🏆 Awards
+2023 🥈최우수상/한국교통연구원장상, 제2회 국제 대학생 EV 자율주행 경진대회 - AA 1/5 Racer 부문  
+2023 🥈장려상, 2023 대학생 스마트 e-모빌리티 경진대회 - EV부문
+2022 🥉장려상,   제1회 국제 대학생 EV 자율주행 경진대회 - AA 1/10 Racer 부문  
+2022 🥈대상,     Konkuk Univ AI Worker 해커톤 - 건국대 공학교육혁신센터
+
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swy1155)](https://solved.ac/swy1155)
