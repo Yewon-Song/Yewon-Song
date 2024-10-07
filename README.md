@@ -11,7 +11,7 @@
 ### 💼 Career
 - Graduated Konkuk University (2020.03-2025.02)
 - Internship at [SkyAutoNet](https://www.skyautonet.com/) as Autonomous Vehicle Platform Team (2024.03-2024.06)
-- Undergraduate Student Intern (2023.06-2023.12)
+- Undergraduate Student Intern at Deep Computer Vision LAB (2023.06-2023.12)
 
 ### 🏆 Awards
 - 2023 🥈최우수상/한국교통연구원장상, 제2회 국제 대학생 EV 자율주행 경진대회 - AA 1/5 Racer 부문  
