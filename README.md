@@ -1,7 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYewon-Song%2FYewon-Song%2F&count_bg=%2379C83D&title_bg=%23555555&icon=ferrari.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 - 👋 Hi, I’m @Yewon-Song
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning Signals and System
